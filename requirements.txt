@@ -1,0 +1,2 @@
+pandas==1.5.3               # Data manipulation and analysis
+matplotlib==3.7.1           # Data visualization (for plotting model performance or data analysis)

@@ -1,1 +1,2 @@
-# image-classification
+# Image-Classification
+Clothing Image Classification
